@@ -4,7 +4,7 @@ Employee by getting the name starting with ‘S’ through keyboard and Generate
 follows using HTML and JSP to get the field and display the results respectively.
 */
 
-------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 delete.jsp
 ------------------------------------------------------------------------------------------
 
