@@ -1,5 +1,5 @@
 # Advanced_java
- Program 06: Servlet Programs 
+ Program 06: Servlet Programs output links 
 
 6a_Factorial_Servlet o/p link :-
 <a href="https://github.com/ravi1718/Advanced-java-programs/blob/main/lab6_servelet/6a_FactorialServlet/6a_screenshot1.jpg">Factorial_Servlet_op1</a>
