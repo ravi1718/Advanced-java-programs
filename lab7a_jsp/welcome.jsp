@@ -14,7 +14,7 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Insert the title here</title>
 </head>
 <body>
 <%
