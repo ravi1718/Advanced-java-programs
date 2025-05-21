@@ -1,7 +1,7 @@
 <br/>
 
 
- Program 01: ArrayList and LinkedList
+ Program 01: ArrayList and LinkedList output links
 
 1a_arraylist_linkedlist o/p link :-
 <a href="https://github.com/ravi1718/Advanced-java-programs/blob/main/lab1_ArrayList_Linked_list/1a_listoperations.jpg">Arraylist_Linkedlist_Operations</a>
