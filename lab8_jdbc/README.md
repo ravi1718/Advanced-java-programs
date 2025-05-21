@@ -1,5 +1,5 @@
 # Advanced_java
- Program 08: JDBC + SQL 
+ Program 08: JDBC + SQL output links 
 
 8a_insert_coffee o/p link :-
 <a href="https://github.com/ravi1718/Advanced-java-programs/blob/main/lab8_jdbc/8a_Insert_Coffee/8a1.png">Insert_coffee_op1</a>
