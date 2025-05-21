@@ -5,7 +5,7 @@ JSP to get the fields and display the results respectively.
 */
 
 ------------------------------------------------------------------------------------------
-inser_coffee.jsp
+insert_coffee.jsp
 ------------------------------------------------------------------------------------------
 
 <%@ page import="java.sql.*" %>
