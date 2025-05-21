@@ -2,7 +2,7 @@
 
 
 # Advanced_java
-Program 09: JDBC + SQL 
+Program 09: JDBC + SQL output links 
 
 9a_delete_coffee o/p link :-
 <a href="https://github.com/ravi1718/Advanced-java-programs/blob/main/lab9_jdbc/9a_Delete_Coffee/9a1.png">Delete_coffee_op11</a>
