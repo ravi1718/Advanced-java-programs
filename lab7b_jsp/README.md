@@ -1,5 +1,5 @@
 # Advanced_java
- Program 7b : JSP_Cookie_Management
+ Program 7b : JSP_Cookie_Management output links 
 
 
 7b_JSP_Cookie_Management o/p link :-
